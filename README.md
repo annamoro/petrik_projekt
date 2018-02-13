@@ -1,1 +1,1 @@
-#Önálló feladat specifikáció sablon
+# Önálló feladat specifikáció sablon
