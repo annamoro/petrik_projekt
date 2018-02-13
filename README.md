@@ -1,1 +1,1 @@
-# petrik_projekt
+#Önálló feladat specifikáció sablon
